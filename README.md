@@ -1,1 +1,1 @@
-## Simple toodlist using React and Typescipt
+## Simple todolist using React and Typescipt
